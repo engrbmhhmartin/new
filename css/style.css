@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+a,
+a:hover {
+    text-decoration: none !important;
+}
+
+img {
+    border: 0px;
+}
+
+h1,h2,h3,h4,h5,h6,ol,ul,p,address {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+@font-face {
+    font-family: roboto_bold;
+    src: url(../fonts/RobotoBold.ttf);
+}
+body{
+    font-family: roboto_bold;
+    background: #FBFBFD
+}
+.container{
+    max-width: 900px;
+}
+/*main css start now*/
+#top h1{
+    color: #E41261;
+    font-weight: 700;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-size: 96px;
+}
+#top h2{
+    color: #010104;
+    font-weight: 700;
+    padding: 0px 0px;
+    text-transform: uppercase;
+    font-size: 80px;
+}
+#top h3 {
+	color: #fff;
+	font-weight: 700;
+	padding: 20px 0px;
+	text-transform: uppercase;
+	font-size: 80px;
+	background: #0BA6A0;
+}
+#top h4 {
+	color: #E41261;
+	padding: 20px 0px;
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
